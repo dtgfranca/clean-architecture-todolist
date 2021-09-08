@@ -1,0 +1,4 @@
+vendor/
+mysql/
+.vscode/
+composer.lock
